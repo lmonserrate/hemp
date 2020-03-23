@@ -572,3 +572,8 @@ Dates and season of each hemp trial conducted at TREC, Homestead, FL.
 		- Block 17
 			- Row 3 - Column C
 			- Row 4 - Column B
+			
+## Fertilization - Summer 2019
+- 112.5 lbs/acre of N
+- 56.25 lbs/acre of P2O5 = 24.75 lbs/acre of elemental P 
+- 300 lbs/acre of K2O = 249 lbs/acre of elemental K
